@@ -29,4 +29,5 @@ download coco test dataset 2014 and mask_rcnn_coco.h5
 
 Follow installation procedure of the github repository
 
-## For running the Mask R-CNN for you dataset you can run and modify the Mask-RCNN.ipynb
+## For running the Mask R-CNN for your dataset, you can run and modify the Mask-RCNN.ipynb
+
