@@ -30,6 +30,7 @@ Download the COCO test dataset 2014 and mask_rcnn_coco.h5
 Follow the installation procedure of the GitHub repository
 
 ### To run the Mask R-CNN for your dataset, you can run and modify the Mask-RCNN.ipynb
+![Alt text](132 (copy).jpg)
 
 You can see the original video as an input [here](https://youtu.be/QvaRmEZaUuU?si=-5fGQDThSIE3fHSK) and the video output after applying the mask R-CNN [here](https://youtu.be/fqo2Y44vT_g?si=H5_u0JNbL-hZ1dn-)
 
