@@ -32,8 +32,6 @@ Follow the installation procedure of [the GitHub repository]()
 
 ## EXTENSION
 
-### To run the Mask R-CNN for your dataset, you can run and modify the Mask-RCNN.ipynb
-
 ### A. Instance segmentation over grayscale images
 In this section, it is tried to extend the Mask R-CNN. One of
 the extension projects is the balloon detection. In this project,
