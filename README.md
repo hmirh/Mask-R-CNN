@@ -14,13 +14,20 @@ tensorflow>=2.0.0
 h5py
 Ipython[all]
 
-pip install\\
+pip install
+
 opencv-python==3.4.18.65
+
 scikit-image==0.17.2
+
 matplotlib==3.3.4
+
 cython==3.0.2
+
 Pillow===8.4.0
+
 scipy==1.5.4
+
 numpy==1.19.5
 
 pip install pycocotools
