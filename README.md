@@ -27,7 +27,7 @@ pip install pycocotools
 
 Download the COCO test dataset 2014 and mask_rcnn_coco.h5
 
-Follow the installation procedure of [the GitHub repository]()
+Follow the installation procedure of [the GitHub repository](https://github.com/facebookresearch/Detectron)
 
 
 ## EXTENSION
