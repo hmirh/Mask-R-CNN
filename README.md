@@ -5,13 +5,21 @@ conda create --name mask-rcnn python=3.6
 pip install -r requirements.txt
 
 numpy
+
 scipy
+
 Pillow
+
 cython
+
 matplotlib
+
 scikit-image
+
 tensorflow>=2.0.0
+
 h5py
+
 Ipython[all]
 
 pip install
